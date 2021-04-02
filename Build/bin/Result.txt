@@ -1,0 +1,2 @@
+Le minimum de F est : 75.87
+Le point ou F est minimum est : (0;1.79998)

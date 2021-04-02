@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Optimisation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Optimisation\;CMake Files\Optimisation\include\;CMake Files\Optimisation\include\ProblemeOptimisation\;CMake Files\Optimisation\include\Probleme14\;CMake Files\Optimisation\include\Probleme23\;CMake Files\Optimisation\include\Enregistre\;CMake Files\Optimisation\src\;CMake Files\Optimisation\src\ProblemeOptimisation\;CMake Files\Optimisation\src\Probleme14\;CMake Files\Optimisation\src\Probleme23\;CMake Files\Optimisation\src\Enregistre\;CMake Files\Exemple\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Optimisation">
+				<Option output="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin/libOptimisation.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include"/>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 Optimisation"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Optimisation/fast">
+				<Option output="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin/libOptimisation.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include"/>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 Optimisation/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Optim">
+				<Option output="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin/Optim.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include"/>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 Optim"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Optim/fast">
+				<Option output="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin/Optim.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include"/>
+					<Add directory="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Optimisation"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 Optim/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Build/Exemple/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Exemple/main.cpp">
+			<Option target="Optim"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Enregistre/Enregistre.h">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Probleme14/Probleme14.h">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Probleme23/Probleme23.h">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/ProblemeOptimisation/ProblemeOptimisation.h">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Enregistre/Enregistre.cpp">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Probleme14/Probleme14.cpp">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Probleme23/Probleme23.cpp">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/ProblemeOptimisation/ProblemeOptimisation.cpp">
+			<Option target="Optimisation"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\include\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/ProblemeOptimisation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\include\ProblemeOptimisation\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Probleme14/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\include\Probleme14\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Probleme23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\include\Probleme23\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/include/Enregistre/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\include\Enregistre\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/ProblemeOptimisation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\src\ProblemeOptimisation\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Probleme14/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\src\Probleme14\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Probleme23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\src\Probleme23\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Optimisation/src/Enregistre/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Optimisation\src\Enregistre\"/>
+		</Unit>
+		<Unit filename="C:/Users/sileu/Desktop/These PaintUp_v1CMake/These/Exemple/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exemple\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
